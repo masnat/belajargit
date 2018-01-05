@@ -11,7 +11,7 @@ int my_strlen(const char *s)
 }
 
 int main(void)
-{
+{ 
    int i;
    char *s[] = 
    {
