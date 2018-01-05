@@ -1,5 +1,6 @@
 #include <stdio.h>
 // add comment again
+// add comment from wchar_support branch
 int my_strlen(const char *s)
 {
    const char *p = s;
