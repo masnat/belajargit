@@ -9,7 +9,7 @@ int my_strlen(const char *s)
 
    return (p - s);
 }
-
+ 
 int main(void)
 { 
    int i;
