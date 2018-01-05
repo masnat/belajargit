@@ -11,7 +11,7 @@ int my_strlen(const char *s)
 }
  
 int main(void)
-{ //add comment
+{ //add comment in this line
    int i;
    char *s[] = 
    {
